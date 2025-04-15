@@ -1,5 +1,5 @@
 
-# 💸 Debt Simplification Visualizer
+# 💸 Cashflow Minimizer Visualizer
 
 A Streamlit web application to visualize and simplify debt transactions among a group of people. Instead of tracking who owes what to whom manually, this app helps you:
 - Input multiple debt transactions

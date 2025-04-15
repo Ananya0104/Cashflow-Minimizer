@@ -69,7 +69,10 @@ Debt Simplifier/
 ├── utils/
 │   ├── binary_heap.py             
 │   └── visualizer.py
-    └── solver.py       
+    └── solver.py
+├── images/
+│   ├── input.png             
+│   └── output.png   
 └── README.md                 
 ```
 

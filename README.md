@@ -47,7 +47,8 @@ pip install -r requirements.txt
 
 ---
 ## Results 
-![](images/input.jpg)
+<img src="images/input.png" alt="Input Image" width="500">
+<img src="images/output.png" alt="Input Image" width="500">
 
 ## ▶️ Run the App
 

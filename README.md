@@ -30,7 +30,7 @@ A Streamlit web application to visualize and simplify debt transactions among a 
 
 1. **Clone the repository / unzip project**
 ```bash
-git clone https://github.com/yourusername/debt-simplifier.git
+git clone https://github.com/Ananya0104/Cashflow-Minimizer.git
 cd debt-simplifier
 ```
 
@@ -46,6 +46,8 @@ pip install -r requirements.txt
 ```
 
 ---
+## Results 
+![](images/input.jpg)
 
 ## ▶️ Run the App
 
